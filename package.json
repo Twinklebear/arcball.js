@@ -1,0 +1,26 @@
+{
+  "name": "arcball_camera",
+  "version": "1.0.1",
+  "description": "A Shoemake Arcball camera in JS. Uses [glMatrix](https://github.com/toji/gl-matrix).",
+  "main": "arcball.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twinklebear/arcball.js.git"
+  },
+  "keywords": [
+    "arcball",
+    "camera"
+  ],
+  "author": "Will Usher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Twinklebear/arcball.js/issues"
+  },
+  "homepage": "https://github.com/Twinklebear/arcball.js#readme",
+  "dependencies": {
+    "gl-matrix": "^3.3.0"
+  }
+}
